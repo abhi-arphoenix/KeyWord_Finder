@@ -1,7 +1,5 @@
 
 # **Find KeyWord**
-## best for linkedin and job describtion
-## ![txt2img-stable2](Src/PICK.png)
 
 
 ```python
